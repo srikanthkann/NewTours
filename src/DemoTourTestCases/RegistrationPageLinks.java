@@ -31,7 +31,7 @@ public class RegistrationPageLinks {
                 register.setSignoff("Signoff");              
     }
 	private boolean assertEquals(String text, String string) {
-		// TODO Auto-generated method stub
+		
 		return false;
 	}
 
