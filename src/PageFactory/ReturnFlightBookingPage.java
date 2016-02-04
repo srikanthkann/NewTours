@@ -15,7 +15,7 @@ public class ReturnFlightBookingPage extends SigninPage{
     public ReturnFlightBookingPage(WebDriver driver) {
 		super(driver);
 		this.driver = driver;
-		// TODO Auto-generated constructor stub
+		
 	}
     
     public void navigateToReturnFlightBookingPage() {
@@ -26,8 +26,8 @@ public String getURL() {
 return Sign_URL;
 }
 
-public void navigateToReturnFlightBookingPage1() {
-// TODO Auto-generated method stub
+public void navigateToReturnFlightBookingPages() {
+
 
 }
 

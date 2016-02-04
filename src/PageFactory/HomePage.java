@@ -19,7 +19,7 @@ public class HomePage {
 	}
 
 public void navigateToTourHomePage() {
-	// TODO Auto-generated method stub
+	
 	
 }
 

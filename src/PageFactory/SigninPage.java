@@ -20,8 +20,8 @@ public String getURL() {
 return Sign_URL;
 }
 
-public void navigateToSigninPage1() {
-// TODO Auto-generated method stub
+public void navigateToSigninPages() {
+
 
 }
 
