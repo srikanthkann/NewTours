@@ -16,9 +16,6 @@ public class ReturnFlightBookingLink {
     public void TestReturnFlight() throws InterruptedException{
     	ReturnFlightBookingPage returnflight = new ReturnFlightBookingPage(BrowserUtil.getDriver());
     	returnflight.navigateToReturnFlightBookingPage();
-/*  	returnflight.setUserName("mercury");
- 	returnflight.setPassword("mercury");
-   	returnflight.setLogin("Login");*/
     	returnflight.loginIn("mercury", "mercury");
         Assert.assertTrue(returnflight.isSignOffDisplayed());
         returnflight.setDeparting("Frankfurt");
