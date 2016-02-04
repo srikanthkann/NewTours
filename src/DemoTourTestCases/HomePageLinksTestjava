@@ -10,7 +10,7 @@ import PageFactory.RegistrationPage;
 import Utility.BrowserUtil;
 
 
-public class HomePageLinks {
+public class HomePageLinksTest {
 
 
 	@Test
