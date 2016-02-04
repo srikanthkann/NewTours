@@ -10,11 +10,6 @@ public class HomePage {
     public HomePage(WebDriver driver) {
                 this.driver=driver;
     }
-
-    //public HomePage(WebDriver driver2) {
-		// TODO Auto-generated constructor stub
-	//}
-
 	public void navigateToHomePage() {
                 driver.get(HOME_URL);
     }
@@ -23,7 +18,7 @@ public class HomePage {
 		return HOME_URL;
 	}
 
-public void navigateToHomePage1() {
+public void navigateToTourHomePage() {
 	// TODO Auto-generated method stub
 	
 }
